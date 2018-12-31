@@ -1,0 +1,7 @@
+[
+  {"phrase": "I love dogs, they're so cute.", "result": {"good": 1}},
+  {"phrase": "Cats are evil", "result": {"bad": 1}},
+  {"phrase": "I love cake", "result": {"good": 1}},
+  {"phrase": "Chocolate cake is the best", "result": {"good": 1}},
+  {"phrase": "Carrots are horrible and should not be eaten", "result": {"bad": 1}}
+]

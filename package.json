@@ -1,0 +1,10 @@
+{
+  "name": "brain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "brain.js": "^1.6.1",
+    "natural": "^0.6.3"
+  }
+}
